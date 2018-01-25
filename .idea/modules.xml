@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aleojiang.iml" filepath="$PROJECT_DIR$/aleojiang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/api.iml" filepath="$PROJECT_DIR$/.idea/modules/api/api.iml" group="api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/react-tutorial/react-tutorial.iml" filepath="$PROJECT_DIR$/.idea/modules/react-tutorial/react-tutorial.iml" group="react-tutorial" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/react-tutorial/react-tutorial_main.iml" filepath="$PROJECT_DIR$/.idea/modules/react-tutorial/react-tutorial_main.iml" group="react-tutorial" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/react-tutorial/react-tutorial_test.iml" filepath="$PROJECT_DIR$/.idea/modules/react-tutorial/react-tutorial_test.iml" group="react-tutorial" />
+    </modules>
+  </component>
+</project>
