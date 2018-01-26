@@ -2,7 +2,7 @@
 <module external.linked.project.id=":react-tutorial" external.linked.project.path="$MODULE_DIR$/../../../react-tutorial" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="aleojiang" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../../react-tutorial">
+    <content url="file://$MODULE_DIR$/../../../webpack-react-tutorial">
       <excludeFolder url="file://$MODULE_DIR$/../../../react-tutorial/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../react-tutorial/build" />
       <excludeFolder url="file://$MODULE_DIR$/../../../react-tutorial/out" />
